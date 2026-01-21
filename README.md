@@ -23,15 +23,14 @@ User Query → Complexity Analysis → Query Decomposition → Multi-Retrieval �
 
 - Docker and Docker Compose
 - Groq API key (get free tier at https://console.groq.com)
-- Minimum 8GB RAM
-- ~2GB disk space
+
 
 ## Quick Start
 
 ### 1. Clone and Setup
 
 ```bash
-cd /Users/adarshravindran/Desktop/rag_debyes
+cd path/to/rag_debyes
 ```
 
 ### 2. Configure Environment
@@ -273,14 +272,5 @@ Place sample PDFs in `tests/test_documents/` for testing.
 - **Evaluation**: RAGAS
 - **Deployment**: Docker, Docker Compose
 
-## License
 
-MIT
 
-## Contributing
-
-Contributions welcome! Please open an issue or PR.
-
-## Acknowledgments
-
-Built with LangChain, Groq, Weaviate, and RAGAS.
