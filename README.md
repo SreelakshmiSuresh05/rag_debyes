@@ -4,12 +4,12 @@ A local-LLM-based agentic document question-answering system that ingests multi-
 
 ## Features
 
-- 🔍 **Multi-modal Document Ingestion**: Extract text, tables, and images (with OCR) from PDFs
-- 🤖 **Agentic Query Processing**: Automatic query complexity analysis and decomposition
-- 🎯 **Semantic Retrieval**: Vector-based search using local embedding models
-- 💬 **Groq Cloud LLM**: Fast inference using Mixtral or LLaMA models
-- 📊 **RAG Evaluation**: Built-in metrics using RAGAS framework
-- 🐳 **Docker Deployment**: Fully containerized with Docker Compose
+-  **Multi-modal Document Ingestion**: Extract text, tables, and images (with OCR) from PDFs
+-  **Agentic Query Processing**: Automatic query complexity analysis and decomposition
+-  **Semantic Retrieval**: Vector-based search using local embedding models
+-  **Groq Cloud LLM**: Fast inference using Mixtral or LLaMA models
+-  **RAG Evaluation**: Built-in metrics using RAGAS framework
+-  **Docker Deployment**: Fully containerized with Docker Compose
 
 ## Architecture
 
